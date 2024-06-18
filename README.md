@@ -1,14 +1,14 @@
-##Admin System Backend
-##Overview
+## Admin System Backend
+## Overview
 This project is a backend system developed using Django to manage various administrative tasks, such as organizing medical certificates for access and handling assignment extensions and waivers efficiently. APIs are utilized to integrate the backend with frontend components seamlessly.
 
-##Features
+## Features
 Medical Certificates Management: Organize and manage medical certificates.
 Assignment Extensions: Handle requests for assignment extensions.
 Waiver Management: Manage assignment waivers.
 API Integration: Seamless integration between backend and frontend via APIs.
 
-##Installation
+## Installation
 Clone the repository:
 
 git clone https://github.com/yourusername/admin-system-backend.git
